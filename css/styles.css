@@ -376,3 +376,19 @@ input.button:hover {
 .red {
   color: #871719;
 }
+
+footer {
+  background-color: #262626;
+}
+
+footer p {
+  color: white;
+}
+
+footer a:hover{
+  color: red;
+  cursor: pointer;
+}
+#right-align {
+  text-align: right;
+}
