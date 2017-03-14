@@ -80,6 +80,9 @@ p {
 p.small-txt {
   font-size: 80%;
 }
+.yellow {
+ color: #FFC400;
+}
 
 table {
   font-size:120%;
@@ -289,6 +292,8 @@ textarea#comment-field {
   width: 100%;
 }
 
+
+
 button {
   background-color: #FFC400;
   color: #871719;
@@ -397,6 +402,23 @@ footer a:hover{
   cursor: pointer;
 }
 #right-align {
+  text-align: right;
+
+}
+
+/* ==========================================================================
+   Contact
+   ========================================================================== */
+
+#contact {
+  background-color: #006F3B;
+  color: #fff;
+}
+#hours {
+  display: flex;
+  justify-content: flex-end;
+}
+.store_hours {
   text-align: right;
 }
 
